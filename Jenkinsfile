@@ -6,3 +6,4 @@ env.SONAR_EXTRA_OPTS = "-Dsonar.java.binaries=./target"
 env.extraFiles = "schema"
 
 ci()
+//new
